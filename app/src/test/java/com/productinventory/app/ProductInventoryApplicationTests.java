@@ -1,4 +1,4 @@
-package app.example.productinventory;
+package com.productinventory.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

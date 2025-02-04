@@ -1,0 +1,3 @@
+2025-02-03 20:57:39.377003+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+SELECT * FROM PRODUCT [42104-232]
